@@ -37,9 +37,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Droid\scdownload.Droid.csproj">
+    <ProjectReference Include="..\Droid\scdownload.Android.csproj">
       <Project>{EFF9EA00-082B-416B-9DCF-3543ADD11064}</Project>
-      <Name>scdownload.Droid</Name>
+      <Name>scdownload.Android</Name>
       <ReferenceOutputAssembly>False</ReferenceOutputAssembly>
       <Private>False</Private>
     </ProjectReference>

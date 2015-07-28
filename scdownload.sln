@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scdownload", "scdownload\scdownload.csproj", "{D069B308-144E-485C-8289-635F8962ECAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scdownload.Droid", "Droid\scdownload.Droid.csproj", "{EFF9EA00-082B-416B-9DCF-3543ADD11064}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scdownload.Android", "Droid\scdownload.Android.csproj", "{EFF9EA00-082B-416B-9DCF-3543ADD11064}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scdownload.UITests", "UITests\scdownload.UITests.csproj", "{BFCBC270-77C9-42CF-AFC3-7BB400E16690}"
 EndProject
